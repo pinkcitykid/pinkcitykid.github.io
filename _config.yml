@@ -239,7 +239,6 @@ plugins:
   - jekyll-archives-v2
   - jekyll-cache-bust
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
@@ -687,3 +686,4 @@ jsonresume:
   - languages
   - interests
   - references
+ - references
