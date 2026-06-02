@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Engineer | M.Sc. Financial Engineering Student
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Data Engineer</p>
+    <p>M.Sc. Financial Engineering Student</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Data Engineer with a passion for building systems that actually work at scale. Over the past few years, I've moved from general software engineering into data infrastructure—designing pipelines, optimizing queries, and solving the unglamorous but critical problems that keep data flowing reliably.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've worked on everything from high-stakes financial data systems at S&P Global to building modular ETL frameworks that cut onboarding time in half. What drives me is the intersection of solid engineering practices and real-world data challenges: how do you make pipelines resilient? How do you reduce latency without reinventing the wheel? How do you catch data quality issues before they become disasters?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also currently pursuing an M.Sc. in Financial Engineering at WorldQuant University, because I'm genuinely interested in where data and finance intersect.
+
+I code in Python and SQL, work with Spark and dbt, and I'm comfortable with cloud platforms and DevOps tooling. But mostly, I enjoy solving concrete problems with clean, maintainable solutions.
