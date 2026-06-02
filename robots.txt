@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://anirudhsharma.github.io/sitemap.xml
+Sitemap: https://pinkcitykid.github.io/sitemap.xml
