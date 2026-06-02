@@ -38,8 +38,8 @@ group :other_plugins do
     # gem 'webrick' -- should be already installed by jekyll
 end
 
-# Gems for al-folio plugins
-group :al_folio_plugins do
+# Core extensions
+group :extensions do
     gem 'al_folio_core', '= 1.0.10'
     gem 'al_icons', '= 1.0.0'
     gem 'al_folio_cv', '= 1.0.0'

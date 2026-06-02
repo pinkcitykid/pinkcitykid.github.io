@@ -1,4 +1,4 @@
-# Agent Guidelines for al-folio (v1.x)
+# Agent Guidelines for Portfolio Project
 
 `al-folio` is the **starter repo** for the pluginized v1 architecture.
 
