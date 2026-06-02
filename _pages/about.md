@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Engineer | M.Sc. Financial Engineering Student
+subtitle: Data Engineer | BITS Pilani | WorldQuant University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Data Engineer</p>
-    <p>M.Sc. Financial Engineering Student</p>
+    <p>Data Engineer | BITS Pilani</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

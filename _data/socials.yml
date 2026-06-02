@@ -4,4 +4,4 @@
 cv_pdf: /assets/pdf/CV.pdf # path to your CV PDF file
 github_username: pinkcitykid
 linkedin_username: anirudh-sharma-7b570a15b
-rss_icon: true # comment this line to hide the RSS icon
+#rss_icon: true # comment this line to hide the RSS icon
