@@ -29,7 +29,7 @@ The site is built with high performance and maintainability in mind:
 ## ✉️ Contact
 
 Feel free to reach out to me via:
-- **LinkedIn:** [anirudh-sharma-7b570a15b](https://www.linkedin.com/in/anirudh-sharma-7b570a15b/)
+- **LinkedIn:** [anirudh-sharma-linkdin](https://www.linkedin.com/in/anirudh-sharma-7b570a15b/)
 - **GitHub:** [@pinkcitykid](https://github.com/pinkcitykid)
 - **Email:** [sanirudh012@gmail.com](mailto:sanirudh012@gmail.com)
 
