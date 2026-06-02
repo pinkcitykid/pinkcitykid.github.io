@@ -7,6 +7,7 @@ Welcome to my professional portfolio. I am a Data Engineer specializing in build
 This repository contains the source code for my personal portfolio website, where I showcase my professional experience, technical skills, and projects in data engineering and financial modeling.
 
 ### Core Focus Areas:
+
 - **Data Engineering:** PySpark, Spark-SQL, dbt, Data Modeling, and Batch Processing.
 - **Infrastructure:** AWS, Azure, Docker, and CI/CD.
 - **Databases:** PostgreSQL, MySQL, DuckDB, and Snowflake.
@@ -15,6 +16,7 @@ This repository contains the source code for my personal portfolio website, wher
 ## 🛠️ Technology Stack
 
 The site is built with high performance and maintainability in mind:
+
 - **Framework:** [Jekyll](https://jekyllrb.com/) (Static Site Generator)
 - **Styling:** Tailwind CSS
 - **Deployment:** GitHub Pages
@@ -29,9 +31,11 @@ The site is built with high performance and maintainability in mind:
 ## ✉️ Contact
 
 Feel free to reach out to me via:
-- **LinkedIn:** [anirudh-sharma-linkdin](https://www.linkedin.com/in/anirudh-sharma-7b570a15b/)
+
+- **LinkedIn:** [anirudh-sharma-linkdin](https://www.linkedin.com/in/anirudh-sharma-linkdin/)
 - **GitHub:** [@pinkcitykid](https://github.com/pinkcitykid)
 - **Email:** [sanirudh012@gmail.com](mailto:sanirudh012@gmail.com)
 
 ---
+
 © 2026 Anirudh Sharma. Built with professional integrity.
